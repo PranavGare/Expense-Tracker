@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+Live at : https://PranavGare.github.io/Expense-Tracker/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="1440" alt="Screenshot 2025-01-16 at 10 50 32 AM" src="https://github.com/user-attachments/assets/79d204a1-4b92-4fa2-80af-91fbefaaeceb" />
 
-## Available Scripts
-
-In the project directory, you can run:
+### `npm i`
 
 ### `npm start`
 
