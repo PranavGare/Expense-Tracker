@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PranavGare/Expense-Tracker.git/static/css/main.df5d06ad.css",
-    "main.js": "/PranavGare/Expense-Tracker.git/static/js/main.67f27dd8.js",
-    "static/js/146.00249723.chunk.js": "/PranavGare/Expense-Tracker.git/static/js/146.00249723.chunk.js",
-    "index.html": "/PranavGare/Expense-Tracker.git/index.html",
-    "main.df5d06ad.css.map": "/PranavGare/Expense-Tracker.git/static/css/main.df5d06ad.css.map",
-    "main.67f27dd8.js.map": "/PranavGare/Expense-Tracker.git/static/js/main.67f27dd8.js.map",
-    "146.00249723.chunk.js.map": "/PranavGare/Expense-Tracker.git/static/js/146.00249723.chunk.js.map"
+    "main.css": "/Expense-Tracker/static/css/main.df5d06ad.css",
+    "main.js": "/Expense-Tracker/static/js/main.60ff4ba8.js",
+    "static/js/146.00249723.chunk.js": "/Expense-Tracker/static/js/146.00249723.chunk.js",
+    "index.html": "/Expense-Tracker/index.html",
+    "main.df5d06ad.css.map": "/Expense-Tracker/static/css/main.df5d06ad.css.map",
+    "main.60ff4ba8.js.map": "/Expense-Tracker/static/js/main.60ff4ba8.js.map",
+    "146.00249723.chunk.js.map": "/Expense-Tracker/static/js/146.00249723.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df5d06ad.css",
-    "static/js/main.67f27dd8.js"
+    "static/js/main.60ff4ba8.js"
   ]
 }
